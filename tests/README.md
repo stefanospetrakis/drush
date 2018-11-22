@@ -27,3 +27,6 @@ Advanced usage
 - Run only tests matching a regex: `composer functional -- --filter testUserRole`
 - Skip slow tests (usually those with network usage): `composer functional -- --exclude-group slow`
 - XML results: `composer functional -- --log-junit results.xml`
+
+Dummy change
+---------
